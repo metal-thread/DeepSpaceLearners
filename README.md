@@ -8,3 +8,4 @@ Our meeting notes are in https://tinyurl.com/23mwfwb9
 
 Our shared folder is https://tinyurl.com/279me9eh
 
+Our Kaggle competition is https://tinyurl.com/22lpcevj
